@@ -6,7 +6,7 @@ tags: [portfolio, chirpy, jekyll, GitHub]
 render_with_liquid: false
 media_subpath: /images/articles/
 image:
-	path: mygithub.webp
+path: mygithub.webp
 ---
 
 # Create a GitHub Pages Site: yourusername.github.io (Chirpy Theme for Jekyll)
